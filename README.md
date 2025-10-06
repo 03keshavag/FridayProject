@@ -1,2 +1,2 @@
 # FridayProject
-a virtual system which all the control hands-free
+a virtual system for  control on system  (hands-free)
